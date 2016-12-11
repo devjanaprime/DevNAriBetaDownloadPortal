@@ -5,6 +5,10 @@ Beta Download Manager
 
 Simple handler for Newt One testable beta downloads. Sat. morning project.
 
+Flow
+----
+![Flowchart](devNAriBetaDownload.png)
+
 Features
 --------
 
